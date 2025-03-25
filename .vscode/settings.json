@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "driver": "MySQL",
+            "username": "avnadmin",
+            "database": "gdb0041",
+            "name": "atliq",
+            "connectString": "mysql://avnadmin:AVNS_Tz3C4coIDwh1w3l-HFF@mysql-3dd570ce-mysql-datasets.g.aivencloud.com:28914/defaultdb?ssl-mode=REQUIRED"
+        }
+    ]
+}
